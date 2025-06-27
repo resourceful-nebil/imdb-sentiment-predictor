@@ -32,11 +32,9 @@ ENV/
 *.swo
 
 # Model and Data files
-*.pkl
-*.h5
-*.model
+
 data/
-model/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
